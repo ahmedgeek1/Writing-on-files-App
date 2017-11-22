@@ -1,0 +1,18 @@
+H:\Assessment 6A\Assessment 6A\bin\Debug\Assessment 6A.exe.config
+H:\Assessment 6A\Assessment 6A\bin\Debug\Assessment 6A.exe
+H:\Assessment 6A\Assessment 6A\bin\Debug\Assessment 6A.pdb
+H:\Assessment 6A\Assessment 6A\obj\Debug\Assessment 6A.csprojResolveAssemblyReference.cache
+H:\Assessment 6A\Assessment 6A\obj\Debug\Assessment_6A.Properties.Resources.resources
+H:\Assessment 6A\Assessment 6A\obj\Debug\Assessment 6A.csproj.GenerateResource.Cache
+H:\Assessment 6A\Assessment 6A\obj\Debug\Assessment 6A.exe
+H:\Assessment 6A\Assessment 6A\obj\Debug\Assessment 6A.pdb
+H:\Assessment 6A\Assessment 6A\obj\Debug\Assessment_6A.WritingFilesRandom.resources
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment 6A\Assessment 6A\bin\Debug\Assessment 6A.exe.config
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment 6A\Assessment 6A\obj\Debug\Assessment 6A.exe
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment 6A\Assessment 6A\obj\Debug\Assessment 6A.pdb
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment 6A\Assessment 6A\bin\Debug\Assessment 6A.exe
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment 6A\Assessment 6A\bin\Debug\Assessment 6A.pdb
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment 6A\Assessment 6A\obj\Debug\Assessment 6A.csprojResolveAssemblyReference.cache
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment 6A\Assessment 6A\obj\Debug\Assessment_6A.WritingFilesRandom.resources
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment 6A\Assessment 6A\obj\Debug\Assessment_6A.Properties.Resources.resources
+C:\Users\24210285\Desktop\Week 6 Assignments\Assessment 6A\Assessment 6A\obj\Debug\Assessment 6A.csproj.GenerateResource.Cache
